@@ -1,1 +1,1 @@
-# Ceritificates
+# Certificates
